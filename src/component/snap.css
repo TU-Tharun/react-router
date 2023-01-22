@@ -1,0 +1,36 @@
+.maindiv{
+    text-align: center;
+}
+#navbnarv{
+    text-align: center;
+}
+
+#displaydiv{
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#natureimage{
+    margin: 2%;
+}
+
+#animalsimages{
+    margin: 2%;
+    height: 200;
+    width: 200;
+}
+#natureimage{
+    height: 200;
+    width: 200;
+}
+#tree{
+    margin: 2%;
+    height: 500px;
+    width: 500px;
+}
+#garden{
+    margin: 2%;
+    height: 500px;
+    width: 500px;
+}
